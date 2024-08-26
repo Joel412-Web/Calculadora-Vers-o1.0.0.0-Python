@@ -2,4 +2,4 @@
 Calculadora em Python 
 ![capa](https://github.com/user-attachments/assets/5df76b13-fc5b-44ca-b85f-a30a1f963e41)
 
-Para Recompilar O codigo Basta excutar O comando Python setup.py Build
+Para Recompilar O codigo Basta excutar O comando Python setup.py Build No ficheiro Setup.py Antes tem de excutar o terminal
